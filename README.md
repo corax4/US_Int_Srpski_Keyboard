@@ -10,7 +10,7 @@ Additional Serbian Latin characters are entered with dead keys "^" and "`":
 
 # Installation.
 
-Download and extract the zip archive ["us_int_s"](https://github.com/corax4/English_-_Srpski_Keyboard/files/8542075/us_sr.zip). Run Setup.exe and follow the instructions of the installer. Reboot Windows.
+Download and extract the zip archive ["us_int_s"](https://github.com/corax4/US_Int_Srpski_Keyboard/files/8546618/us_int_s.zip). Run Setup.exe and follow the instructions of the installer. Reboot Windows.
 
 Now you can select the installed keyboard layout:
 
